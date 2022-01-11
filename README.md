@@ -1,9 +1,6 @@
-<br>
-About me <br>
-<br>
-👋 Hi, I’m Benjamen Olayiwola <br>
-👀 I’m interested in Data Science, Data Analysis, Product Management.<br>
-🌱 As an Intrapreneur, I leverage on technology-inspired models to help individuals and organizations make Data-driven decisions.<br>
+👋 Hi, I’m Benjamen Olayiwola
+👀 I’m interested in Data Science, Data Analysis, Product Management.
+🌱 As an Intrapreneur, I leverage on technology-inspired models to help individuals and organizations make Data-driven decisions.
 📫 How to reach me - olayiwolaben@gmail.com 
 
 <!---
